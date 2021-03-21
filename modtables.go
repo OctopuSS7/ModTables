@@ -64,5 +64,7 @@ func main() {
 	} else if operation == "latin_square" {
 		exclude := append(coprime(base), 0)
 		generate_board(multiplicative, base, exclude)
+	} else {
+		fmt.Println("ERROR: |:Invalid Arguments:|")
 	}
 }
