@@ -1,5 +1,5 @@
 # ModTables
-GoLang program to generate modular addition and multiplication tables, as well as latin squares from these.
+Generate modular addition and multiplication tables.
 
 # Usage
 2 command line arguments, 1st, whether you want a multiplicative, additive, or latin_square table, and 2nd, the number to use for modulo, and also the number of rows and columns wih the same number.
